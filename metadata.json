@@ -1,0 +1,7 @@
+{
+  "name": "omkar ai",
+  "description": "A productivity app that aligns your focus sessions with your emotional state. Track focus hours, get mood-based affirmations via TTS, and earn rewards every 30 minutes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
